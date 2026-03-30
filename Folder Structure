@@ -1,0 +1,13 @@
+movie-sentiment-analyzer/
+│
+├── data/
+│   └── imdb.csv
+│
+├── models/
+│   ├── model.pkl
+│   └── vectorizer.pkl
+│
+├── train_model.py
+├── app.py
+├── requirements.txt
+├── README.md
